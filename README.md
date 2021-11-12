@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I do coding for fun and 💸
+## I code for fun and 💸
 
     - 🎯 Learning golang
     - 😄 Pronouns: He/Him

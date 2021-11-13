@@ -1,9 +1,12 @@
-# Hi there 👋
+# Hi there 👋, I am Suraj
 
-## I do coding for fun and 💸
+## I code for fun and 💸
 
-    - 🎯 Learning golang
-    - 😄 Pronouns: He/Him
+![My Github Profile views](https://komarev.com/ghpvc/?username=iamsurajbobade&style=flat) [![My twitter](https://img.shields.io/twitter/follow/iamsurajbobade?logo=twitter&style=flat)](https://twitter.com/iamsurajbobade)
+
+- 🎯 Learning [Go](https://golang.org)
+- 💬 Ask me about C++, Java, Python, and JavaScript
+- 😄 Pronouns: He/Him
 
 ### My Github stats
 
@@ -17,5 +20,7 @@
 
 Credits
 
-* [Github Stats](https://github.com/anuraghazra/github-readme-stats)
-* [Stackoverflow stats](https://github.com/omidnikrah/github-readme-stackoverflow)
+- [Github profile visit count](https://komarev.com)
+- [Social media follow button](https://img.shields.io)
+- [Github Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Stackoverflow stats](https://github.com/omidnikrah/github-readme-stackoverflow)

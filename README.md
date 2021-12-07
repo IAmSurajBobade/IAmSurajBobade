@@ -2,8 +2,10 @@
 
 ## I code for fun and 💸
 
-![My Github Profile views](https://komarev.com/ghpvc/?username=iamsurajbobade&style=flat) [![My twitter](https://img.shields.io/twitter/follow/iamsurajbobade?logo=twitter&style=flat)](https://twitter.com/iamsurajbobade)
-
+![My Github Profile views](https://komarev.com/ghpvc/?username=iamsurajbobade&style=flat)
+<!--
+[![My twitter](https://img.shields.io/twitter/follow/iamsurajbobade?logo=twitter&style=flat)](https://twitter.com/iamsurajbobade)
+-->
 - 🎯 Learning [Go](https://golang.org)
 - 💬 Ask me about C++, Java, Python, and JavaScript
 - 😄 Pronouns: He/Him

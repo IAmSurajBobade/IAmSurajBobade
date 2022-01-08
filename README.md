@@ -16,7 +16,7 @@
 
 ### My Stackoverflow stats
 
-![My Stack overflow stats](https://github-readme-khaki.vercel.app/?userID=5243762&theme=dark&layout=compact)
+[![My Stack overflow stats](https://github-readme-khaki.vercel.app/?userID=5243762&theme=dark&layout=compact)](https://stackoverflow.com/users/5243762/iamsurajbobade)
 
 ---
 

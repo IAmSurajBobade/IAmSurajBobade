@@ -1,6 +1,6 @@
 # Hi there 👋, I am Suraj
 
-## I code for fun and 💸
+## I code for living and as a hobby
 
 ![My Github Profile views](https://komarev.com/ghpvc/?username=iamsurajbobade&style=flat)
 <!--

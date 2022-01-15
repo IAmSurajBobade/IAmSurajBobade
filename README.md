@@ -6,9 +6,20 @@
 <!--
 [![My twitter](https://img.shields.io/twitter/follow/iamsurajbobade?logo=twitter&style=flat)](https://twitter.com/iamsurajbobade)
 -->
+
+## Developer me
+
 - 🎯 Learning [Go](https://golang.org)
+- ✨ User first - clean and inclusive Design ✔️
 - 💬 Ask me about C++, Java, Python, and JavaScript
-- 😄 Pronouns: He/Him
+- 🏡 Old projects retire at [IASB-archives](https://github.com/IASB-archives) org
+
+## Human me
+
+- 😄 Pronouns: He/Him/Bro
+- 📚 Currently reading to [Sapiens](https://www.ynharari.com/book/sapiens-2/) by Yahav Harari
+- 🌱 I will probably beat you at  🏊‍♂️, 🚴 & 🏸
+- 📭 Connect with me [on Twitter](https://twitter.com/iamsurajbobade) or [via email](mailto:iamsurajbobade@gmail.com)
 
 ### My Github stats
 

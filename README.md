@@ -9,7 +9,8 @@
 
 ## Developer me
 
-- 🎯 Learning [Go](https://golang.org): [exercism](https://exercism.org/profiles/IAmSurajBobade)
+- 🎯 Learning [Go](https://golang.org)
+- 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade)([badges](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=badges)) [exercism](https://exercism.org/profiles/IAmSurajBobade)
 - ✨ User first - clean and inclusive Design ✔️
 - 💬 Ask me about C++, Java, Python, and JavaScript
 - 🏡 Old projects retire at [IASB-archives](https://github.com/IASB-archives) org

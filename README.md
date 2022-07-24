@@ -9,7 +9,7 @@
 
 ## Developer me
 
-- 🎯 Learning [Go](https://golang.org)
+- 🎯 Currently exploring [Go](https://golang.org)
 - 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=topactivity), [exercism](https://exercism.org/profiles/IAmSurajBobade)
 - ✨ Philosophy: User first - clean and inclusive Design ✔️
 - 💬 Ask me about C++, Java, Python, and JavaScript
@@ -19,7 +19,7 @@
 ## Human me
 
 - 😄 Pronouns: He/Him/Bro
-- 📚 Currently reading to [Sapiens](https://www.ynharari.com/book/sapiens-2/) by Yahav Harari
+- 📚 Currently listning to [](https://www.audible.in/pd/Hitchhikers-Guide-to-the-Galaxy-Audiobook/B07B64K6WR?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare)
 - 🌱 I will probably beat you at  🏊‍♂️, 🚴 & 🏸
 - 📭 Connect with me [on Twitter](https://twitter.com/iamsurajbobade) or [via email](mailto:iamsurajbobade@gmail.com)
 

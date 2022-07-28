@@ -18,7 +18,6 @@
 
 ## Human me
 
-- 😄 Pronouns: He/Him/Bro
 - 📚 Currently listning to [Hitchhiker's Guide to the Galaxy](https://www.audible.in/pd/Hitchhikers-Guide-to-the-Galaxy-Audiobook/B07B64K6WR?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare)
 - 🌱 I will probably beat you at  🏊‍♂️, 🚴 & 🏸
 - 📭 Connect with me [on Twitter](https://twitter.com/iamsurajbobade) or [via email](mailto:iamsurajbobade@gmail.com)

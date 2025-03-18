@@ -11,7 +11,8 @@
 
 - 🎯 Currently exploring [Go](https://golang.org)
 - 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=topactivity), [exercism](https://exercism.org/profiles/IAmSurajBobade)
-- ✨ Philosophy: User first - clean and inclusive Design ✔️
+- ✨ Philosophy:
+  - User first & clean Design ✔️
 - 💬 Ask me about C++, Java, Python, and JavaScript
 - 💬 [Share](mailto:iamsurajbobade@gmail.com?subject=Discussion%20%7C%20Golang%2FDocker%2FK8s)  your knowledge on [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/)
 - 🏡 Old projects retire at [IASB-archives](https://github.com/IASB-archives) org

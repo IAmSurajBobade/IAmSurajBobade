@@ -7,25 +7,29 @@
 [![My twitter](https://img.shields.io/twitter/follow/iamsurajbobade?logo=twitter&style=flat)](https://twitter.com/iamsurajbobade)
 -->
 
-## Developer me
+## Developer
 
 - 🎯 Currently exploring [Go](https://golang.org)
 - 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=topactivity), [exercism](https://exercism.org/profiles/IAmSurajBobade)
 - ✨ Development Philosophy:
-  - Code is a Art, make it beautiful - inside out ✔️
-  - User first & clean Design ✔️
-  - Iterate, Refactor, Optimize ✔️
-  - TDD is the way to Go (pun intended!) ✔️
-  - Automate everything ✔️ (Not because its easy, but because I thought it was...)
+  - Code is a Art, make it beautiful - inside out 🌱
+  - User first & clean Design 🌱
+  - Iterate, Refactor, Optimize 🌱
+  - TDD is the way to Go (pun intended!) 🌱
+  - Automate everything 🌱 (Not because its easy, but because I thought it was... ✔️)
 - 💬 Ask me about C++, Java, Python, and JavaScript
 - 💬 [Share](mailto:iamsurajbobade@gmail.com?subject=Discussion%20%7C%20Golang%2FDocker%2FK8s)  your knowledge on [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/)
 - 🏡 Old projects retire at [IASB-archives](https://github.com/IASB-archives) org
 
-## Human me
+## Human being
 
-- 📚 Currently listning to [Hitchhiker's Guide to the Galaxy](https://www.audible.in/pd/Hitchhikers-Guide-to-the-Galaxy-Audiobook/B07B64K6WR)
-- 🌱 I will probably beat you at  🏊‍♂️, 🚴 & 🏸
+- 🌱 I will always find time for  🏊‍♂️, 🚴 & 🏸
+- ️🧘‍♂️ I am a Meditation enthusiast. Meditating since late 2022.
+- 🎧 Currently Listening on loop: [Run it up by Hanumankind](https://www.youtube.com/watch?v=MbJ72KO5khs)
+- 📚 Last book I read was [Hitchhiker's Guide to the Galaxy](https://www.audible.in/pd/Hitchhikers-Guide-to-the-Galaxy-Audiobook/B07B64K6WR)
+- 🌱 lurker on [r/OffGrid](https://www.reddit.com/r/OffGrid/), [r/woodworking](https://www.reddit.com/r/woodworking/), [r/homeautomation](https://www.reddit.com/r/homeautomation/)
 - 📭 Connect with me [on Twitter](https://twitter.com/iamsurajbobade) or [via email](mailto:iamsurajbobade@gmail.com)
+- Also checkout [iamsurajbobade.github.io](https://iamsurajbobade.github.io/) while at it.
 
 ### My Github stats
 

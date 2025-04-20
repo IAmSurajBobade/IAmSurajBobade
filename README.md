@@ -24,7 +24,7 @@
 ## Human being
 
 - 🌱 I will always find time for  🏊‍♂️, 🚴 & 🏸
-- ️🧘‍♂️ I am a Meditation enthusiast. Meditating since late 2022.
+- ️🧘‍♂️ I am always in a mood to talk about Meditation, tinyliving, offgrid, and life...
 - 🎧 Currently Listening on loop: [Run it up by Hanumankind](https://www.youtube.com/watch?v=MbJ72KO5khs)
 - 📚 Last book I read was [Hitchhiker's Guide to the Galaxy](https://www.audible.in/pd/Hitchhikers-Guide-to-the-Galaxy-Audiobook/B07B64K6WR)
 - 🌱 lurker on [r/OffGrid](https://www.reddit.com/r/OffGrid/), [r/woodworking](https://www.reddit.com/r/woodworking/), [r/homeautomation](https://www.reddit.com/r/homeautomation/)

@@ -9,7 +9,8 @@
 
 ## Developer
 
-- 🎯 Currently exploring [Go](https://golang.org)
+- 🎯 Currently exploring On Device Agent building using [Strands](https://github.com/strands-agents/sdk-python), [adk](https://github.com/google/adk-python), [go-sdk](https://github.com/modelcontextprotocol/go-sdk), [mcp-go](https://github.com/mark3labs/mcp-go), and [Go](https://golang.org)
+- 🎯 Contributing to open source [go-sdk v0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0), [go-mcp v0.40.0](https://github.com/mark3labs/mcp-go/releases/tag/v0.40.0)
 - 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=topactivity), [exercism](https://exercism.org/profiles/IAmSurajBobade)
 - ✨ Development Philosophy:
   - Code is a Art, make it beautiful - inside out 🌱

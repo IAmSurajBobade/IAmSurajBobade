@@ -16,7 +16,8 @@
   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[SSE: Add support for SSE handler options](https://github.com/modelcontextprotocol/go-sdk/issues/503)|✅ ACCECPTED|[0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0)|
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[SSE: Add support for SSE handler options](https://github.com/modelcontextprotocol/go-sdk/pull/508)|✅ MERGED|[0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0)|
     |[mcp-go](https://github.com/mark3labs/mcp-go)|SUBMISSION (pr)|[docs(server): Correct custom endpoint example for streamable HTTP transport](https://github.com/mark3labs/mcp-go/pull/577)|✅ MERGED|[v0.40.0](https://github.com/mark3labs/mcp-go/releases/tag/v0.40.0)|
-   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[Implement SEP-973: Icons and metadata support](https://github.com/modelcontextprotocol/go-sdk/issues/552)|✅ ACCECPTED|TBD|
+   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[mcp/server: enable server logging](https://github.com/modelcontextprotocol/go-sdk/pull/501)|✅ MERGED|[0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0)|
+   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[Implement SEP-973: Icons and metadata support](https://github.com/modelcontextprotocol/go-sdk/issues/552)|✅ ACCECPTED|[v1.1.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.1.0)|
   |[inspector](https://github.com/modelcontextprotocol/go-sdk)|BUG-REPORT (issue)|[Change Icon.sizes from string to string array](https://github.com/modelcontextprotocol/inspector/issues/861)|✅ RESOLVED|N/A|
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[Implement SEP-973](https://github.com/modelcontextprotocol/go-sdk/pull/570)|🕖 IN-REVIEW|TBD|
   <!--

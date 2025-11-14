@@ -19,9 +19,9 @@
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[mcp/server: enable server logging](https://github.com/modelcontextprotocol/go-sdk/pull/501)|✅ MERGED|[v1.1.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.1.0)|
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[Implement SEP-973: Icons and metadata support](https://github.com/modelcontextprotocol/go-sdk/issues/552)|✅ ACCECPTED|N/a|
   |[inspector](https://github.com/modelcontextprotocol/go-sdk)|BUG-REPORT (issue)|[Change Icon.sizes from string to string array](https://github.com/modelcontextprotocol/inspector/issues/861)|✅ RESOLVED|N/A|
-   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[Implement SEP-973](https://github.com/modelcontextprotocol/go-sdk/pull/570)|🕖 IN-REVIEW|TBD|
+   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[Implement SEP-973](https://github.com/modelcontextprotocol/go-sdk/pull/570)|✅ MERGED|TBD|
   <!--
-  |[repo]()|PROPOSAL/BUG-REPORT/SUBMISSION|[issue/pr]()|ACCECPTED/MERGE/IN-REVIEWD/REJECTED/FIXED|[tag]()/NA|
+  |[repo]()|PROPOSAL/BUG-REPORT/SUBMISSION|[issue/pr]()|ACCECPTED/✅ MERGED/🕖 IN-REVIEW/REJECTED/FIXED|[tag]()/NA|
   -->
 - 👨‍💻 Dev profile(s): [stackoverflow](https://stackoverflow.com/users/5243762/iamsurajbobade?tab=topactivity), [exercism](https://exercism.org/profiles/IAmSurajBobade)
 - ✨ Development Philosophy:

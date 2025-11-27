@@ -9,8 +9,9 @@
 
 ## Developer
 
-- 🎯 Currently exploring On Device Agent building using [Strands](https://github.com/strands-agents/sdk-python), [adk](https://github.com/google/adk-python), [go-sdk](https://github.com/modelcontextprotocol/go-sdk), [mcp-go](https://github.com/mark3labs/mcp-go), and [Go](https://golang.org)
-- 🎯 Contributing to open source
+- 🎯 Currently exploring building privacy focused Agents and MCP Servers
+- 🎯 Contributing to open source [go-sdk](https://github.com/modelcontextprotocol/go-sdk)
+  <!--
   |repo|type|contribution|status|tag|
   |--|--|--|--|--|
   |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[SSE: Add support for SSE handler options](https://github.com/modelcontextprotocol/go-sdk/issues/503)|✅ ACCECPTED|[v0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0)|
@@ -20,6 +21,7 @@
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|PROPOSAL (issue)|[Implement SEP-973: Icons and metadata support](https://github.com/modelcontextprotocol/go-sdk/issues/552)|✅ ACCECPTED|N/a|
   |[inspector](https://github.com/modelcontextprotocol/go-sdk)|BUG-REPORT (issue)|[Change Icon.sizes from string to string array](https://github.com/modelcontextprotocol/inspector/issues/861)|✅ RESOLVED|N/A|
    |[go-mcp](https://github.com/modelcontextprotocol/go-sdk)|SUBMISSION (pr)|[Implement SEP-973](https://github.com/modelcontextprotocol/go-sdk/pull/570)|✅ MERGED|TBD|
+  -->
   <!--
   |[repo]()|PROPOSAL/BUG-REPORT/SUBMISSION|[issue/pr]()|ACCECPTED/✅ MERGED/🕖 IN-REVIEW/REJECTED/FIXED|[tag]()/NA|
   -->

@@ -1,0 +1,159 @@
+[
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "prs": [
+      {
+        "createdAt": "2026-02-07T07:04:03Z",
+        "mergedAt": "2026-02-09T09:41:27Z",
+        "state": "MERGED",
+        "title": "Use omitzero json tag for byte array field in ResourceContents, instead of omitempty",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/782"
+      },
+      {
+        "createdAt": "2026-02-03T07:20:21Z",
+        "mergedAt": "2026-02-03T13:23:59Z",
+        "state": "MERGED",
+        "title": "chore: use rand.Text and slog.DiscardHandler over intrernal implementation",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/773"
+      },
+      {
+        "createdAt": "2025-10-11T14:23:47Z",
+        "mergedAt": "2025-11-12T21:52:44Z",
+        "state": "MERGED",
+        "title": "Implement SEP-973",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/570"
+      },
+      {
+        "createdAt": "2025-09-19T16:29:46Z",
+        "mergedAt": "2025-09-19T17:01:57Z",
+        "state": "MERGED",
+        "title": "SSE: Add support for SSE handler options",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/508"
+      },
+      {
+        "createdAt": "2025-09-19T14:10:14Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "title": "SSE: Add support for SSE handler options (#503)",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/504"
+      },
+      {
+        "createdAt": "2025-09-19T10:06:31Z",
+        "mergedAt": "2025-10-02T18:44:32Z",
+        "state": "MERGED",
+        "title": "mcp/server: enable server logging",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/501"
+      },
+      {
+        "createdAt": "2025-09-19T09:58:30Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "title": "mcp/server: enable server logging",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/500"
+      }
+    ],
+    "issues": [
+      {
+        "createdAt": "2026-02-07T06:55:43Z",
+        "state": "CLOSED",
+        "title": "Use omitzero to marshal ResourceContents, instead of custom MarshalJSON",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/781"
+      },
+      {
+        "createdAt": "2026-02-03T07:09:55Z",
+        "state": "CLOSED",
+        "title": "Update code for minimum go version 1.24",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/772"
+      },
+      {
+        "createdAt": "2025-11-08T15:44:23Z",
+        "state": "CLOSED",
+        "title": "Bug: Marshaling Content omits medadata",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/631"
+      },
+      {
+        "createdAt": "2025-10-03T14:18:25Z",
+        "state": "CLOSED",
+        "title": "SEP-973: Icons and metadata support",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/552"
+      },
+      {
+        "createdAt": "2025-09-27T16:21:13Z",
+        "state": "CLOSED",
+        "title": "Proposal: Introduce `Close() error` in `Transport` interface",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/537"
+      },
+      {
+        "createdAt": "2025-09-19T13:39:06Z",
+        "state": "CLOSED",
+        "title": "SSE: Add support for SSE handler options",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/503"
+      }
+    ],
+    "releases": [
+      {
+        "tagName": "v1.4.0",
+        "name": "v1.4.0",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.4.0"
+      },
+      {
+        "tagName": "v0.6.0",
+        "name": "v0.6.0",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0"
+      }
+    ]
+  },
+  {
+    "repo": "modelcontextprotocol/inspector",
+    "prs": [],
+    "issues": [
+      {
+        "createdAt": "2025-10-11T13:47:08Z",
+        "state": "CLOSED",
+        "title": "Change Icon.sizes from string to string array",
+        "url": "https://github.com/modelcontextprotocol/inspector/issues/861"
+      }
+    ],
+    "releases": []
+  },
+  {
+    "repo": "google/adk-go",
+    "prs": [
+      {
+        "createdAt": "2026-01-07T14:55:20Z",
+        "mergedAt": "2026-01-09T13:09:03Z",
+        "state": "MERGED",
+        "title": "chore: correct LoadArtifactHandler Route Name",
+        "url": "https://github.com/google/adk-go/pull/464"
+      }
+    ],
+    "issues": [],
+    "releases": [
+      {
+        "tagName": "v0.4.0",
+        "name": "v0.4.0",
+        "url": "https://github.com/google/adk-go/releases/tag/v0.4.0"
+      }
+    ]
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "prs": [
+      {
+        "createdAt": "2025-09-04T06:53:24Z",
+        "mergedAt": "2025-09-11T09:15:33Z",
+        "state": "MERGED",
+        "title": "docs(server): Correct custom endpoint example for streamable HTTP transport",
+        "url": "https://github.com/mark3labs/mcp-go/pull/577"
+      }
+    ],
+    "issues": [],
+    "releases": [
+      {
+        "tagName": "v0.40.0",
+        "name": "Release v0.40.0",
+        "url": "https://github.com/mark3labs/mcp-go/releases/tag/v0.40.0"
+      }
+    ]
+  }
+]

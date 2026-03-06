@@ -36,4 +36,4 @@ I write code for a living and as a hobby.
 
 ---
 
-[Website](https://iamsurajbobade.github.io/) • [Stack Overflow](https://stackoverflow.com/users/5243762/iamsurajbobade) • [Exercism](https://exercism.org/profiles/IAmSurajBobade) • [Twitter](https://twitter.com/iamsurajbobade) • [Email](mailto:surajb.dev@gmail.com)
+[Website](https://iamsurajbobade.github.io/) • [Stack Overflow](https://stackoverflow.com/users/5243762/iamsurajbobade) • [Exercism](https://exercism.org/profiles/IAmSurajBobade) • [Email](mailto:surajb.dev@gmail.com)

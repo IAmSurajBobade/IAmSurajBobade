@@ -3,6 +3,13 @@
     "repo": "modelcontextprotocol/go-sdk",
     "prs": [
       {
+        "createdAt": "2026-07-14T06:18:00Z",
+        "mergedAt": "2026-08-05T11:50:59Z",
+        "state": "MERGED",
+        "title": "Disable scheduled nightly runs on forks",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/pull/1083"
+      },
+      {
         "createdAt": "2026-02-07T07:04:03Z",
         "mergedAt": "2026-02-09T09:41:27Z",
         "state": "MERGED",
@@ -53,6 +60,12 @@
       }
     ],
     "issues": [
+      {
+        "createdAt": "2026-07-14T06:13:01Z",
+        "state": "CLOSED",
+        "title": "Disable nightly builds on the forks",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/issues/1082"
+      },
       {
         "createdAt": "2026-02-07T06:55:43Z",
         "state": "CLOSED",

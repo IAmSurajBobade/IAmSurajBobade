@@ -1,10 +1,12 @@
 # Open Source Contributions
 
 A dynamically generated record of my open source Pull Requests, Issues, and Releases.
-*(Last updated: 2026/03/01 17:11)*
+*(Last updated: 2026/08/05 17:28)*
 
 | Date | Title | State | Tags |
 |---|---|---|---|
+| 2026-08-05 | [Disable scheduled nightly runs on forks (#1083)](https://github.com/modelcontextprotocol/go-sdk/pull/1083) | MERGED | `go-sdk`, `pr` |
+| 2026-07-14 | [Disable nightly builds on the forks (#1082)](https://github.com/modelcontextprotocol/go-sdk/issues/1082) | CLOSED | `go-sdk`, `issue` |
 | 2026-02-27 | 🚀 [go-sdk/v1.4.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.4.0) | ✅ PUBLISHED | `go-sdk`, `release` |
 | 2026-02-09 | [Use omitzero json tag for byte array field in ResourceContents, instead of omitempty (#782)](https://github.com/modelcontextprotocol/go-sdk/pull/782) | MERGED | `go-sdk`, `pr` |
 | 2026-02-07 | [Use omitzero to marshal ResourceContents, instead of custom MarshalJSON (#781)](https://github.com/modelcontextprotocol/go-sdk/issues/781) | CLOSED | `go-sdk`, `issue` |

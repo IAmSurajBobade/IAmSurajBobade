@@ -133,6 +133,13 @@
     "repo": "google/adk-go",
     "prs": [
       {
+        "createdAt": "2026-08-19T18:36:25Z",
+        "mergedAt": "2026-08-28T10:54:05Z",
+        "state": "MERGED",
+        "title": "fix(ci): skip scheduled nightly runs on forks",
+        "url": "https://github.com/google/adk-go/pull/1366"
+      },
+      {
         "createdAt": "2026-01-07T14:55:20Z",
         "mergedAt": "2026-01-09T13:09:03Z",
         "state": "MERGED",
@@ -140,7 +147,14 @@
         "url": "https://github.com/google/adk-go/pull/464"
       }
     ],
-    "issues": [],
+    "issues": [
+      {
+        "createdAt": "2026-08-19T18:31:24Z",
+        "state": "CLOSED",
+        "title": "Disable scheduled Nightly workflow runs on forks",
+        "url": "https://github.com/google/adk-go/issues/1365"
+      }
+    ],
     "releases": [
       {
         "tagName": "v0.4.0",
@@ -168,5 +182,32 @@
         "url": "https://github.com/mark3labs/mcp-go/releases/tag/v0.40.0"
       }
     ]
+  },
+  {
+    "repo": "a2aproject/a2a-go",
+    "prs": [
+      {
+        "createdAt": "2026-08-19T18:40:21Z",
+        "mergedAt": "2026-08-31T07:41:35Z",
+        "state": "MERGED",
+        "title": "fix(ci): skip scheduled nightly workflows on forks",
+        "url": "https://github.com/a2aproject/a2a-go/pull/427"
+      }
+    ],
+    "issues": [
+      {
+        "createdAt": "2026-08-19T18:38:43Z",
+        "state": "CLOSED",
+        "title": "Disable scheduled Nightly and Nightly ITK runs on forks",
+        "url": "https://github.com/a2aproject/a2a-go/issues/426"
+      },
+      {
+        "createdAt": "2025-10-02T09:12:11Z",
+        "state": "CLOSED",
+        "title": "[Feat]: Follow golang naming convention",
+        "url": "https://github.com/a2aproject/a2a-go/issues/54"
+      }
+    ],
+    "releases": []
   }
 ]

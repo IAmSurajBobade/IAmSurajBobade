@@ -1,10 +1,14 @@
 # Open Source Contributions
 
 A dynamically generated record of my open source Pull Requests, Issues, and Releases.
-*(Last updated: 2026/08/05 17:28)*
+*(Last updated: 2026/08/31 18:55)*
 
 | Date | Title | State | Tags |
 |---|---|---|---|
+| 2026-08-31 | [fix(ci): skip scheduled nightly workflows on forks (#427)](https://github.com/a2aproject/a2a-go/pull/427) | MERGED | `a2a-go`, `pr` |
+| 2026-08-28 | [fix(ci): skip scheduled nightly runs on forks (#1366)](https://github.com/google/adk-go/pull/1366) | MERGED | `adk-go`, `pr` |
+| 2026-08-19 | [Disable scheduled Nightly and Nightly ITK runs on forks (#426)](https://github.com/a2aproject/a2a-go/issues/426) | CLOSED | `a2a-go`, `issue` |
+| 2026-08-19 | [Disable scheduled Nightly workflow runs on forks (#1365)](https://github.com/google/adk-go/issues/1365) | CLOSED | `adk-go`, `issue` |
 | 2026-08-05 | [Disable scheduled nightly runs on forks (#1083)](https://github.com/modelcontextprotocol/go-sdk/pull/1083) | MERGED | `go-sdk`, `pr` |
 | 2026-07-14 | [Disable nightly builds on the forks (#1082)](https://github.com/modelcontextprotocol/go-sdk/issues/1082) | CLOSED | `go-sdk`, `issue` |
 | 2026-02-27 | 🚀 [go-sdk/v1.4.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.4.0) | ✅ PUBLISHED | `go-sdk`, `release` |
@@ -19,6 +23,7 @@ A dynamically generated record of my open source Pull Requests, Issues, and Rele
 | 2025-10-11 | [Change Icon.sizes from string to string array (#861)](https://github.com/modelcontextprotocol/inspector/issues/861) | CLOSED | `inspector`, `issue` |
 | 2025-10-03 | [SEP-973: Icons and metadata support (#552)](https://github.com/modelcontextprotocol/go-sdk/issues/552) | CLOSED | `go-sdk`, `issue` |
 | 2025-10-02 | [mcp/server: enable server logging (#501)](https://github.com/modelcontextprotocol/go-sdk/pull/501) | MERGED | `go-sdk`, `pr` |
+| 2025-10-02 | [[Feat]: Follow golang naming convention (#54)](https://github.com/a2aproject/a2a-go/issues/54) | CLOSED | `a2a-go`, `issue` |
 | 2025-09-27 | [Proposal: Introduce `Close() error` in `Transport` interface (#537)](https://github.com/modelcontextprotocol/go-sdk/issues/537) | CLOSED | `go-sdk`, `issue` |
 | 2025-09-19 | 🚀 [go-sdk/v0.6.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v0.6.0) | ✅ PUBLISHED | `go-sdk`, `release` |
 | 2025-09-19 | [SSE: Add support for SSE handler options (#508)](https://github.com/modelcontextprotocol/go-sdk/pull/508) | MERGED | `go-sdk`, `pr` |

@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 
-repos = ['modelcontextprotocol/go-sdk', 'modelcontextprotocol/inspector', 'google/adk-go', 'mark3labs/mcp-go']
+repos = ['modelcontextprotocol/go-sdk', 'modelcontextprotocol/inspector', 'google/adk-go', 'mark3labs/mcp-go', 'a2aproject/a2a-go']
 author = 'IAmSurajBobade'
 
 # Configurable data types to fetch

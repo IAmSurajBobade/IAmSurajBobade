@@ -8,7 +8,7 @@ I write code for a living and as a hobby.
 
 ### What I'm up to 💻
 
-- 🏦 Working with [HDFC Bank](https://www.hdfc.bank.in) as a Senior Software Engineer, leading MCP and Security features for Mobile Banking App, NetBanking, Authenticator App, and AI Skin projects.
+- 🏦 Working with [HDFC Bank](https://www.hdfc.bank.in) as a Senior Software Engineer, leading Security features for Mobile Banking App, NetBanking, Authenticator App, and MCP layer for AI Skin projects.
 - 🎯 Researching and building privacy-focused, Token Optimized agents and MCP Servers.
 - 🤝 Actively contributing to [open source](docs/open_source_contributions.md) projects related to Agents and MCP.
 - ✍️ Worked as a technical reviewer for [Full Stack Web Development with Go](https://www.packtpub.com/en-us/product/full-stack-web-development-with-go-9781803234199) by [Packt Publishing](https://www.packtpub.com/).

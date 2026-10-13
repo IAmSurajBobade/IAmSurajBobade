@@ -1,10 +1,14 @@
 # Open Source Contributions
 
 A dynamically generated record of my open source Pull Requests, Issues, and Releases.
-*(Last updated: 2026/08/31 18:55)*
+*(Last updated: 2026/10/13 20:24)*
 
 | Date | Title | State | Tags |
 |---|---|---|---|
+| 2026-09-14 | 🚀 [go-sdk/v1.8.0](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0) | ✅ PUBLISHED | `go-sdk`, `release` |
+| 2026-09-04 | 🚀 [go-sdk/v1.8.0-pre.2](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0-pre.2) | ✅ PUBLISHED | `go-sdk`, `release` |
+| 2026-09-04 | 🚀 [go-sdk/v1.8.0-pre.1](https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0-pre.1) | ✅ PUBLISHED | `go-sdk`, `release` |
+| 2026-08-31 | 🚀 [adk-go/v2.3.0](https://github.com/google/adk-go/releases/tag/v2.3.0) | ✅ PUBLISHED | `adk-go`, `release` |
 | 2026-08-31 | [fix(ci): skip scheduled nightly workflows on forks (#427)](https://github.com/a2aproject/a2a-go/pull/427) | MERGED | `a2a-go`, `pr` |
 | 2026-08-28 | [fix(ci): skip scheduled nightly runs on forks (#1366)](https://github.com/google/adk-go/pull/1366) | MERGED | `adk-go`, `pr` |
 | 2026-08-19 | [Disable scheduled Nightly and Nightly ITK runs on forks (#426)](https://github.com/a2aproject/a2a-go/issues/426) | CLOSED | `a2a-go`, `issue` |

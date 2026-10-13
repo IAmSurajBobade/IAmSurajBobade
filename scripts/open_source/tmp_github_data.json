@@ -105,6 +105,21 @@
     ],
     "releases": [
       {
+        "tagName": "v1.8.0",
+        "name": "v1.8.0",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0"
+      },
+      {
+        "tagName": "v1.8.0-pre.2",
+        "name": "v1.8.0-pre.2",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0-pre.2"
+      },
+      {
+        "tagName": "v1.8.0-pre.1",
+        "name": "v1.8.0-pre.1",
+        "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0-pre.1"
+      },
+      {
         "tagName": "v1.4.0",
         "name": "v1.4.0",
         "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.4.0"
@@ -156,6 +171,11 @@
       }
     ],
     "releases": [
+      {
+        "tagName": "v2.3.0",
+        "name": "v2.3.0",
+        "url": "https://github.com/google/adk-go/releases/tag/v2.3.0"
+      },
       {
         "tagName": "v0.4.0",
         "name": "v0.4.0",

@@ -229,5 +229,33 @@
       }
     ],
     "releases": []
+  },
+  {
+    "repo": "x402-foundation/x402",
+    "prs": [
+      {
+        "createdAt": "2026-08-24T17:46:43Z",
+        "mergedAt": null,
+        "state": "OPEN",
+        "title": "feat(go): support MCP protocol version 2026-07-28",
+        "url": "https://github.com/x402-foundation/x402/pull/3252"
+      },
+      {
+        "createdAt": "2026-08-24T17:30:56Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "title": "ignore",
+        "url": "https://github.com/x402-foundation/x402/pull/3250"
+      }
+    ],
+    "issues": [
+      {
+        "createdAt": "2026-08-24T17:21:21Z",
+        "state": "OPEN",
+        "title": "[Feature]: MCP 2026-07-28 protocol version support (go)",
+        "url": "https://github.com/x402-foundation/x402/issues/3248"
+      }
+    ],
+    "releases": []
   }
 ]
